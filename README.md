@@ -5,3 +5,5 @@ new branch
 second PR
 
 third PR
+
+merge
