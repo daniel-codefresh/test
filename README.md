@@ -6,4 +6,3 @@ second PR
 
 third PR
 
-merged
