@@ -1,6 +1,10 @@
 {
   "name": "dani-test",
   "version": "1.0.2",
+  "scripts": {
+    "ci-publish": "ci-publish"
+  },
   "dependencies": {
+    "ci-publish": "^1.3.1"
   }
 }
