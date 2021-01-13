@@ -1,6 +1,11 @@
 {
   "name": "dani-test",
   "version": "1.0.6",
+  "main": "index.js",
+  "scripts": {
+
+  },
   "dependencies": {
+    "lodash": "^3.10.1"
   }
 }
